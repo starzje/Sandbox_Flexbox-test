@@ -12,13 +12,13 @@
 }
 
 .first-container {
-  width: 800px;
+  width: 40vw;
   flex-wrap: wrap;
   background-color: red;
 }
 
 .second-container {
-  width: 300px;
+  width: 20vw;
   display: flex;
   flex-wrap: wrap;
   gap: 75px;
@@ -27,7 +27,7 @@
 }
 
 .green {
-  width: 200px;
+  width: 100%;
   background-color: green;
   flex-grow: 2;
 }
@@ -39,7 +39,7 @@
 }
 
 .third-container {
-  width: 100%;
+  width: 40vw;
   height: 70%;
   background-color: blue;
 }
